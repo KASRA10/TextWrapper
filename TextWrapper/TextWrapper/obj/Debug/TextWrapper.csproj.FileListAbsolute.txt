@@ -1,0 +1,10 @@
+E:\WORKSPACE\TextWrapper\TextWrapper\TextWrapper\bin\Debug\TextWrapper.exe.config
+E:\WORKSPACE\TextWrapper\TextWrapper\TextWrapper\bin\Debug\TextWrapper.exe
+E:\WORKSPACE\TextWrapper\TextWrapper\TextWrapper\bin\Debug\TextWrapper.pdb
+E:\WORKSPACE\TextWrapper\TextWrapper\TextWrapper\obj\Debug\TextWrapper.csproj.AssemblyReference.cache
+E:\WORKSPACE\TextWrapper\TextWrapper\TextWrapper\obj\Debug\TextWrapper.WorkSpace_FRM.resources
+E:\WORKSPACE\TextWrapper\TextWrapper\TextWrapper\obj\Debug\TextWrapper.Properties.Resources.resources
+E:\WORKSPACE\TextWrapper\TextWrapper\TextWrapper\obj\Debug\TextWrapper.csproj.GenerateResource.cache
+E:\WORKSPACE\TextWrapper\TextWrapper\TextWrapper\obj\Debug\TextWrapper.csproj.CoreCompileInputs.cache
+E:\WORKSPACE\TextWrapper\TextWrapper\TextWrapper\obj\Debug\TextWrapper.exe
+E:\WORKSPACE\TextWrapper\TextWrapper\TextWrapper\obj\Debug\TextWrapper.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WORKSPACE\\TextWrapper\\TextWrapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F39C66-AB50-4BBB-8F3F-8E48B4F1263A}|TextWrapper\\TextWrapper.csproj|e:\\workspace\\textwrapper\\textwrapper\\textwrapper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7F39C66-AB50-4BBB-8F3F-8E48B4F1263A}|TextWrapper\\TextWrapper.csproj|solutionrelative:textwrapper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F39C66-AB50-4BBB-8F3F-8E48B4F1263A}|TextWrapper\\TextWrapper.csproj|e:\\workspace\\textwrapper\\textwrapper\\textwrapper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F39C66-AB50-4BBB-8F3F-8E48B4F1263A}|TextWrapper\\TextWrapper.csproj|solutionrelative:textwrapper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\TextWrapper\\TextWrapper\\TextWrapper\\Form1.cs",
+              "RelativeDocumentMoniker": "TextWrapper\\Form1.cs",
+              "ToolTip": "E:\\WORKSPACE\\TextWrapper\\TextWrapper\\TextWrapper\\Form1.cs",
+              "RelativeToolTip": "TextWrapper\\Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T06:25:26.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\WORKSPACE\\TextWrapper\\TextWrapper\\TextWrapper\\Form1.cs",
+              "RelativeDocumentMoniker": "TextWrapper\\Form1.cs",
+              "ToolTip": "E:\\WORKSPACE\\TextWrapper\\TextWrapper\\TextWrapper\\Form1.cs [Design]",
+              "RelativeToolTip": "TextWrapper\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T06:12:17.279Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
